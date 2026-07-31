@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/site-escola00/static/css/main.3657bacd.css",
-    "main.js": "/site-escola00/static/js/main.afd499f6.js",
-    "index.html": "/site-escola00/index.html",
-    "main.3657bacd.css.map": "/site-escola00/static/css/main.3657bacd.css.map",
-    "main.afd499f6.js.map": "/site-escola00/static/js/main.afd499f6.js.map"
+    "main.css": "/site-escola/static/css/main.3657bacd.css",
+    "main.js": "/site-escola/static/js/main.afd499f6.js",
+    "index.html": "/site-escola/index.html",
+    "main.3657bacd.css.map": "/site-escola/static/css/main.3657bacd.css.map",
+    "main.afd499f6.js.map": "/site-escola/static/js/main.afd499f6.js.map"
   },
   "entrypoints": [
     "static/css/main.3657bacd.css",
