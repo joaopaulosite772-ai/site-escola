@@ -1,6 +1,6 @@
 Olá alunos do JPII sou Enrico e desenvolvi este site/avisos para nossa escola, peço que vocês cuidem com carinho. 
 
-Aqui vai as instruções caso de percam, aonde vocês possam atualizar os dados
+Aqui vai as instruções caso se percam, aonde vocês possam atualizar os dados
 
 1.0 Vão em Escola-Final (pasta)
 1.1 src/App.js (aqui vocês conseguem alterar as informações) * No App.css vocês podem estilizar da forma que quiserem junto com a vontade do Prof
